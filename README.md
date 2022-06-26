@@ -27,7 +27,7 @@
 
 <div id="badges">
   <a href="">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://youtube.com/c/SajuTalk">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
