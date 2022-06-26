@@ -5,7 +5,9 @@
 </div>
 
 ♻️ Living at kerala.
+<br>
 🌱 Fun fact : I like songs, photography, designing, electronic works and more.
+<br>
 🍂 Position : Ceo off team Trace. 
 
 *Languages :*
