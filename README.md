@@ -20,14 +20,14 @@
 </div>
 </br>
 
-*Connect me :*
-🌈 Email : dev.fivo@gmail.com
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsajadpp&count_private=true)
 
 <div id="badges">
-  <a href="">
+  <a href="mailto:dev.fivo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://instagram.com/mr_sajad_pp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://youtube.com/c/SajuTalk">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
