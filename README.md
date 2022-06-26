@@ -25,6 +25,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsajadpp&count_private=true)
 
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/c/SajuTalk">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/sajad_pp">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 
 
