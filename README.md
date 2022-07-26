@@ -8,7 +8,7 @@
 <br>
 🌱 Fun fact : I like songs, photography, designing, electronic works and more.
 <br>
-🍂 Position : Ceo off team Trace. 
+🍂 Position : Ceo off team Crawler. 
 
 Skills :
 
