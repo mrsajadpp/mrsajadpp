@@ -13,7 +13,7 @@
 Skills :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,"  title="CSS3" alt="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,bots,firebase,svg,vscode,"  title="CSS3" alt="CSS" />&nbsp;
 </div>
 </br>
 
