@@ -15,6 +15,9 @@ body{
 .hleft{
   width: 20%;
   height: 50px;
+  align-items: centre;
+  justify-content: centre;
+  display: flex;
 }
 .hleft span{
   font-size: 30px;
@@ -22,6 +25,9 @@ body{
 .hcenter{
   width: 60%;
   height: 50px;
+  align-items: centre;
+  justify-content: centre;
+  display: flex;
 }
 .hcenter img{
   width: 100px;
@@ -29,4 +35,7 @@ body{
 .hright{
   width: 20%;
   height: 50px;
+  align-items: centre;
+  justify-content: centre;
+  display: flex;
 }
