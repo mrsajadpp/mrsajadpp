@@ -13,14 +13,17 @@ body{
   border-bottom: 1px solid;
 }
 .hleft{
-  width: 33.3333333333%;
+  width: 20%;
   height: 50px;
 }
 .hcenter{
-  width: 33.3333333333%;
+  width: 60%;
   height: 50px;
 }
+.hcenter img{
+  width: 200px;
+}
 .hright{
-  width: 33.3333333333%;
+  width: 20%;
   height: 50px;
 }
