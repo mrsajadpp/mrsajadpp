@@ -5,4 +5,11 @@ body{
 .header{
   width: 100%;
   height: 50px;
+  align-items: centre;
+  justify-content: centre;
+  display: flex;
+}
+.hleft{
+  width: 33.3333333333%;
+  height: 50px;
 }
