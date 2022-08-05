@@ -1,6 +1,10 @@
 body{
   width: 100vw;
   height: 100vh;
+  align-items: centre;
+  justify-content: centre;
+  display: flex;
+  flex-direction: column;
 }
 .header{
   width: 100%;
@@ -11,6 +15,8 @@ body{
   background-color: #fff;
   border: none;
   border-bottom: 1px solid;
+  position: fixed;
+  top: 0px;
 }
 .hleft{
   width: 20%;
@@ -29,7 +35,7 @@ body{
   justify-content: centre;
   display: flex;
 }
-.hcenter img{
+.hlogo{
   width: 70px;
 }
 .hright{
@@ -37,4 +43,9 @@ body{
   height: 50px;
   align-items: centre;
   justify-content: centre;
+  display: flex;
+}
+.container{
+  width: 80%;
+  height: 100vh;
 }
