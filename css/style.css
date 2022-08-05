@@ -16,12 +16,15 @@ body{
   width: 20%;
   height: 50px;
 }
+.hleft span{
+  font-size: 30px;
+}
 .hcenter{
   width: 60%;
   height: 50px;
 }
 .hcenter img{
-  width: 200px;
+  width: 100px;
 }
 .hright{
   width: 20%;
