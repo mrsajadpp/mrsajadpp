@@ -30,12 +30,11 @@ body{
   display: flex;
 }
 .hcenter img{
-  width: 100px;
+  width: 70px;
 }
 .hright{
   width: 20%;
   height: 50px;
   align-items: centre;
   justify-content: centre;
-  display: flex;
 }
