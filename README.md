@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on **Basket**
+- 🔭 I’m currently working on **Trace inc**
 
 - 🌱 I’m currently learning **React native, Flutter**
 
