@@ -24,6 +24,7 @@ Skills :
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsajadpp&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mrsajadpp&show_icons=true&locale=en&layout=compact)
 
 <div id="badges">
   <a href="mailto:dev.fivo@gmail.com">
