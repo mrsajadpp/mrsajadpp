@@ -4,11 +4,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-♻️ Living at kerala.
-<br>
-🌱 Fun fact : I like songs, photography, designing, electronic works and more.
-<br>
-🍂 Position : Ceo off team Crawler. 
+- 🔭 I’m currently working on **Basket**
+
+- 🌱 I’m currently learning **React native, Flutter**
+
+- 📝 I regularly write articles on [https://mrsajadpp.blogspot.com](https://mrsajadpp.blogspot.com)
+
+- 💬 Ask me about **Html, Javascript, Css, Nodejs, Python**
+
+- 📫 How to reach me **dev.fivo@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 Skills :
 
