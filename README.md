@@ -29,22 +29,22 @@ Skills :
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsajadpp&show_icons=true&locale=en)
 <br>
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrsajadpp&)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrsajadpp)
 
 <div id="badges">
-  <a href="mailto:dev.fivo@gmail.com"> 
+  <a href="mailto: teamtraceinc@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://instagram.com/mr_sajad_pp">
+  <a href="https://instagram.com/mrsajadpp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://youtube.com/c/SajuTalk">
+  <a href="https://youtube.com/@sajutalk">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://patreon.com/sajadpp">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Badge"/>
   </a>
-  <a href="https://twitter.com/sajad_pp">
+  <a href="https://twitter.com/mrsajadpp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
