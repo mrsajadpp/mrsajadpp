@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Html, Javascript, Css, Nodejs, Python**
 
-- 📫 How to reach me **dev.fivo@gmail.com**
+- 📫 How to reach me **spotitincin@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
