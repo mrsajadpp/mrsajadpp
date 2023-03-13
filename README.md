@@ -25,10 +25,6 @@ Skills :
 </div>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mrsajadpp&show_icons=true&locale=en&layout=compact)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsajadpp&show_icons=true&locale=en)
-<br>
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrsajadpp)
 
 <div id="badges">
