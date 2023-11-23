@@ -26,7 +26,7 @@ Skills :
 
 
 <div id="badges">
-  <a href="mailto: teamtraceinc@gmail.com"> 
+  <a href="mailto:sajad@thintry.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://instagram.com/mrsajadpp">
