@@ -24,7 +24,6 @@ Skills :
 </div>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrsajadpp)
 
 <div id="badges">
   <a href="mailto: teamtraceinc@gmail.com"> 
