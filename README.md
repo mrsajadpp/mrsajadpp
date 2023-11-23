@@ -6,15 +6,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on **Trace inc**
+- 🔭 I’m currently working on **Thintry**
 
-- 🌱 I’m currently learning **React native, Flutter**
+- 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://mrsajadpp.blogspot.com](https://mrsajadpp.blogspot.com)
+- 📝 I regularly write articles on [https://thintry.com/](https://thintry.com)
 
-- 💬 Ask me about **Html, Javascript, Css, Nodejs, Python**
+- 💬 Ask me about **Html, Javascript, Css, Nodejs, Python, C++, C**
 
-- 📫 How to reach me **spotitincin@gmail.com**
+- 📫 How to reach me **sajad@thintry.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
