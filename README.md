@@ -20,7 +20,7 @@
 Skills :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,bots,firebase,svg,vscode&perline=5"  title="CSS3" alt="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c&perline=5"  title="CSS3" alt="CSS" />&nbsp;
 </div>
 </br>
 
