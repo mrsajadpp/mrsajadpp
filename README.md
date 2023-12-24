@@ -18,7 +18,7 @@
 Skills :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c,typescript"  title="Skills" alt="Skills" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c,typescript&perline=3"  title="Skills" alt="Skills" />&nbsp;
 </div>
 </br>
 
