@@ -1,13 +1,7 @@
-# Hi there, I'm Muhammed Sajad PP 👋
+## Hi there, I'm Sajad 👋
 
-## 👨‍💻 About Me
-- 🔭 Founder and CEO of Thintry.
-- 🌱 MERN Stack web developer proficient in JavaScript, TypeScript, Python, C, C++, Git.
-- 💼 Skilled in Video Editing, Graphic Designing, Digital Marketing, etc.
+I'm the Founder and CEO of Thintry. My expertise lies in MERN Stack web development, where I work with JavaScript, TypeScript, Python, C, C++, and Git. Additionally, I have skills in Video Editing, Graphic Designing, Digital Marketing, and more.
 
-## 📫 Contact Me
-- Email: sajad@thintry.com
+If you'd like to get in touch, you can reach me at sajad@thintry.com.
 
-## 🚀 Quick Links
-- [LinkedIn](https://www.linkedin.com/in/sajadpp/)
-- [GitHub](https://github.com/mrsajadpp)
+For more information, you can check out my profiles on [LinkedIn](https://www.linkedin.com/in/sajadpp/) and [GitHub](https://github.com/mrsajadpp).
