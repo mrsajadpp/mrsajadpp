@@ -17,3 +17,5 @@ For more information, you can check out my profiles on [LinkedIn](https://www.li
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mrsajadpp&show_icons=true" />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsajadpp&layout=compact)
