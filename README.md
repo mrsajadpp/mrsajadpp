@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed Sajad PP, but you can call me Sajad.</h1>
-<h3 align="center">I am a computer programmer, as well as the founder and CEO of Grovix Lab and Athens Esports. My passion for technology and innovation drives me to explore various fields, including AI and robotics research. With over five years of experience in backend development, I primarily work with JavaScript, TypeScript, and Python. While I have expertise in web design, my true passion lies in backend development, and I manage my design projects as needed. I look forward to connecting with all of you!</h3>
+<h1 align="left">Hi 👋, I'm Muhammed Sajad PP, but you can call me Sajad.</h1>
+<h3 align="left">I am a computer programmer, as well as the founder and CEO of Grovix Lab and Athens Esports. My passion for technology and innovation drives me to explore various fields, including AI and robotics research. With over five years of experience in backend development, I primarily work with JavaScript, TypeScript, and Python. While I have expertise in web design, my true passion lies in backend development, and I manage my design projects as needed. I look forward to connecting with all of you!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsajadpp&label=Profile%20views&color=0e75b6&style=flat" alt="mrsajadpp" /> </p>
 
