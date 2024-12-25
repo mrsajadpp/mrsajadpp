@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I am Muhammed Sajad PP having over six years experience as a computer programmer in backend development. I have wide interest in technologies and innovations. I have expertise in languages including JavaScript, TypeScript, C, C++, and Python. I am well-versed at building scalable and efficient systems using tools like Docker for containerization, Git for version control, and MongoDB for database management.
 
 Actually, front-end design work as it is doesn't interest me that much unless you consider Next.js and React.js for creating full-stack web applications. What really interests me now are real backend developments where I can really dive deep into system architecture and problem-solving.
